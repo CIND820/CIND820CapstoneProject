@@ -26,6 +26,7 @@ Folder: eda
 
 Folder: initial_codes
   Contains proof-of-concept
+  Please note for data distributions, please see eda folder
   Files
   1. Initial Codes - Cleveland
     Stage 1 methodology of Cleveland Clinic dataset
