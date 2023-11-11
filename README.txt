@@ -23,3 +23,17 @@ Folder: eda
     Exploratory data analysis Comprehensive Heart Disease Dataset
   3. data_india.html
     Exploratory data analysis Cardiovascular Disease Dataset
+
+Folder: initial_codes
+  Contains proof-of-concept
+  Files
+  1. Initial Codes - Cleveland
+    Stage 1 methodology of Cleveland Clinic dataset
+  2. Initial Codes - IEEE
+    Stage 1 methodology of IEEE dataset
+  3. Initial Codes - Mendeley
+    Stage 1 methodology of Mendeley dataset
+  4. Updated Methodology
+    Contains updated methodology and steps to be taken 
+
+
